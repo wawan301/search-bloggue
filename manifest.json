@@ -1,0 +1,38 @@
+{
+  "name": "Smartphones10.com",
+  "short_name": "Smartphones10",
+  "start_url": "https://www.smartphones10.com/?m=1",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#1a006f",
+  "description": "Aplikasi, Berita, Game, Tutorial dan Ulasan Spesifikasi Smartphones Android serta iOS.",
+  "icons": [{
+    "src": "https://2.bp.blogspot.com/-qJ8ccEH1kX8/W-_f5CfaDfI/AAAAAAAAE9E/SFGN_CLOyPwYft72RMM_HRnv7JjUPAGhgCLcBGAs/s1600/smartphones1048.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://4.bp.blogspot.com/-R0SJsKj8a30/W-_f6T44uVI/AAAAAAAAE9U/M1WjzrFRwHUdbUklTJOV9kwHeHqQgkiEACLcBGAs/s1600/smartphones1072.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://4.bp.blogspot.com/-drzKMI1M1cs/W-_f6Yc0N1I/AAAAAAAAE9Y/1sy3ANKi9D49UDv0vJRNvq7U6CiJmaDNwCLcBGAs/s1600/smartphones1096.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-nAWy_h6F5NM/W-_f5MgYbuI/AAAAAAAAE9M/0cRARx9MOe0hsIBa6KugtCRj3wNA_NhAgCLcBGAs/s1600/smartphones10144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://4.bp.blogspot.com/-QfQDkhp3BcU/W-_f5A8uhgI/AAAAAAAAE9I/AzO9_0VYei0gzqhQefzY51DF-vWHHXUawCLcBGAs/s1600/smartphones10168.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-87letU81t6k/W-_f6ndf-ZI/AAAAAAAAE9c/o2cywKbKFh0jqgvEoEHb_Xkzh-zGYV8OwCLcBGAs/s1600/smartphones192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-UKx1g6paDco/W-_f53STs8I/AAAAAAAAE9Q/zfhf087GdNwj-11pZtk8hzQAvGusTHEfACLcBGAs/s1600/smartphones10512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
